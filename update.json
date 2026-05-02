@@ -2,6 +2,31 @@
   "latestVersion": "1.2.1",
   "minimumVersion": "1.2.1",
   "apkUrl": "https://rocketune.web.id/download.php",
-  "title": "Update Rocketune",
-  "message": "Versi terbaru Rocketune tersedia. Silakan update untuk mendapatkan perbaikan dan fitur terbaru."
+  "update": {
+    "mode": "soft",
+    "title": "Update Rocketune",
+    "message": "Update baru tersedia.",
+    "buttonText": "Update Sekarang",
+    "laterText": "Nanti Dulu"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "Rocketune Maintenance",
+    "message": "Server sedang dirapikan sebentar.",
+    "estimatedUntil": "2026-05-02T22:00:00+07:00",
+    "allowVersions": []
+  },
+  "featureFlags": {
+    "spotifySearch": true,
+    "spotifyRecommendations": true,
+    "onlineStream": false,
+    "wrappedAi": true,
+    "leaderboard": true,
+    "profileUpload": true
+  },
+  "disabledFeatures": {
+    "download": false,
+    "wrapped": false,
+    "leaderboard": false
+  }
 }
