@@ -10,10 +10,10 @@
     "laterText": "Nanti Dulu"
   },
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Rocketune Maintenance",
-    "message": "Server sedang dirapikan sebentar.",
-    "estimatedUntil": "2026-05-02T22:00:00+07:00",
+    "message": "App sedang perbaikan/update.",
+    "estimatedUntil": "2026-05-06T22:00:00+12:00",
     "allowVersions": []
   },
   "featureFlags": {
