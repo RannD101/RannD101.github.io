@@ -3,7 +3,7 @@
   "minimumVersion": "2.0.0",
   "apkUrl": "https://rocketune.web.id/download",
   "update": {
-    "mode": "soft",
+    "mode": "force",
     "title": "Update Rocketune",
     "message": "Update baru tersedia.",
     "buttonText": "Update Sekarang",
